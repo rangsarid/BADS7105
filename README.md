@@ -1,2 +1,2 @@
-# BADS7105
-CRM Home work 6210422038_Rangsarid Pringwanid
+# BADS7105 CRM Analytics and Intelligence 
+CRM Homework 6210422038_Rangsarid Pringwanid
