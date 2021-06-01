@@ -6,6 +6,6 @@
 <p>Missing and Duplicated Handling :</p>
 <ul>
 <li>Remove missing values</li>
-<li>Remove duplicated columns value&nbsp;</li>
+<li>Remove duplicated columns value&nbsp; (<span style="color: #ff0000;">'เครื่องย่อยกระดาษ'</span>)</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007duplicated_values.png"></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/duplicated_values.png" /></p>
