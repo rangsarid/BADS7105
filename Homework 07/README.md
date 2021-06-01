@@ -20,4 +20,4 @@
 <img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table_len_2.png" /></p>
 <p>&nbsp;</p>
 <p>Visualize with bar chart show top 10 with  2 items set &nbsp;</p>
-<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len_2.png" /></p>
+<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len2.png" /></p>
