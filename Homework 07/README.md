@@ -25,3 +25,12 @@
 <p>visualization with bar chart top 10 support scores 3 items set&nbsp;</p>
 <p>&nbsp;</p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len3.png" /></p>
+<p><strong>Association Rules&nbsp;</strong></p>
+<p>Running a market basket analysis. Here is the visualization of 1-itemset association rules (filtered by Support &gt; 0.5 and Lift &gt; 1.05) Nodes represent items and directed edges represent rules (antecedents ➞ consequents). Edge labels annotate Lift values. Note that for 1-to-1-itemset, both directions of rules (A➞B, B➞A) have the same lift values, so in this case, we always have bi-directional edges (A⬌B).</p>
+<p>association rule with items A to item B (1➞1)</p>
+<p>association rule with items set of (A,B) to item C (2➞1)</p>
+<p>association rule with items set of (A,B,C) to item D (3➞1)</p>
+<p>&nbsp;</p>
+<p>Hear is Graph visualize show the edge relationship between 1-to-1 itemset&nbsp;</p>
+<p>&nbsp;</p>
+<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/graph_item_1_1.png" />
