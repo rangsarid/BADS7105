@@ -12,3 +12,12 @@
 <p>Encoding value&nbsp;</p>
 <p>'Yes' =&gt; 1&nbsp; , 'No' =&gt; 0&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/encode.png" /></p>
+<h2 id="Market-Basket-Analysis">Market Basket Analysis</h2>
+<h3 id="Association-rule-&amp;-Frequent-Items-set">Association rule &amp; Frequent Items set</h3>
+<p>Find whole support score show the association of occurrent items</p>
+<p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table.png" /></p>
+<h2 id="Show-top-10-frequent-items-set--2-items-by-support-score">Show top 10 frequent items set 2 items by support score</h2>
+<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table_len_2.png" /></p>
+<p>&nbsp;</p>
+<p>Visualize with bar chart show top 10 with  2 items set &nbsp;</p>
+<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len_2.png" /></p>
