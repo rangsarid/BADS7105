@@ -17,7 +17,11 @@
 <p>Find whole support score show the association of occurrent items</p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table.png" /></p>
 <h2 id="Show-top-10-frequent-items-set--2-items-by-support-score">Show top 10 frequent items set 2 items by support score</h2>
-<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table_len_2.png" /></p>
+<p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table_len_2.png" /></p>
 <p>&nbsp;</p>
-<p>Visualize with bar chart show top 10 with  2 items set &nbsp;</p>
-<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len2.png" /></p>
+<p>Visualize with bar chart show top 10 with 2 items set &nbsp;</p>
+<p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len2.png" /></p>
+<h2 id="Show-top-10-frequent-item-set--3-items-by-support-score">Show top 10 frequent items set 3 items by support score</h2>
+<p>visualization with bar chart top 10 support scores 3 items set&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len3.png" /></p>
