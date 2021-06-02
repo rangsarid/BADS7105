@@ -13,16 +13,17 @@
 <p>'Yes' =&gt; 1&nbsp; , 'No' =&gt; 0&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/encode.png" /></p>
 <h2 id="Market-Basket-Analysis">Market Basket Analysis</h2>
-<h3 id="Association-rule-&amp;-Frequent-Items-set">Association rule &amp; Frequent Items set</h3>
-<p>Find whole support score show the association of occurrent items</p>
+<h3 id="Association-rule-&amp;-Frequent-Items-set">Frequent Items set</h3>
+<p>Find frequency of Item A or the combination of frequency of items A and B together in the total number of transactions&nbsp;&nbsp;that measure by support score with minimum suport = 0.5 if support = 1 mean the item or those combination was ouccured frequency with all of transactions&nbsp;</p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table.png" /></p>
 <h2 id="Show-top-10-frequent-items-set--2-items-by-support-score">Show top 10 frequent items set 2 items by support score</h2>
+<p>Hear show the top 10 frequent items set 2 item . Example&nbsp; (ครีมกันแดด, กระเป๋า) have support score =&nbsp; 1 that mean this item set was occurred every transactoins</p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table_len_2.png" /></p>
 <p>&nbsp;</p>
 <p>Visualize with bar chart show top 10 with 2 items set &nbsp;</p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len2.png" /></p>
 <h2 id="Show-top-10-frequent-item-set--3-items-by-support-score">Show top 10 frequent items set 3 items by support score</h2>
-<p>visualization with bar chart top 10 support scores 3 items set&nbsp;</p>
+<p>Hear show the top 10 frequent items set 3 items . Example (ครีมกันแดด, โรตี, ชาบู) have support score =&nbsp;0.956522&nbsp;that mean this item set was occurred Almost all of transactoins</p>
 <p>&nbsp;</p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len3.png" /></p>
 <p><strong>Association Rules&nbsp;</strong></p>
@@ -51,8 +52,7 @@
 <div class="text_cell_render rendered_html" dir="ltr" tabindex="-1">&nbsp;</div>
 <div class="text_cell_render rendered_html" dir="ltr" tabindex="-1">
 <h2 id="Graph-network-show-the-relationship-on-each-pair-of-items-by-similarity-score">Graph network show the relationship on each pair of items by similarity score</h2>
-<p>We could recommend items based on item similarity. Filtering the similarity using 0.75 threshold, and visualize them in graph. A node represents an item. Edge thickness and color represent cosine similarity between 2 items.</p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/collaborative.png" />
-</div>
+<p>We could recommend items based on item similarity. Filtering the similarity using 0.75 threshold, and visualize them in graph. A node represents an item. Edge thickness and color represent cosine similarity between 2 items.</p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/collaborative.png" /></div>
 </div>
 </div>
