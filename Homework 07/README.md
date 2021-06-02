@@ -31,6 +31,22 @@
 <p>association rule with items set of (A,B) to item C (2➞1)</p>
 <p>association rule with items set of (A,B,C) to item D (3➞1)</p>
 <p>&nbsp;</p>
-<p>Hear is Graph visualize show the edge relationship between 1-to-1 itemset&nbsp;</p>
+<p>Hear is Graph visualize show the edge relationship between 1-to-1 itemset&nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/graph_item_1_1.png" /></p>
+<p>Visual Result :&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Support_vs_confidence.png" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Support_vs_lift.png" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/lift_VS_confident.png" /></p>
 <p>&nbsp;</p>
-<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/graph_item_1_1.png" />
+<div class="cell text_cell unselected rendered" tabindex="2">
+<div class="inner_cell">
+<div class="text_cell_render rendered_html" dir="ltr" tabindex="-1">
+<h3 id="Create-matrix-finding-similarity">Create matrix finding similarity</h3>
+</div>
+</div>
+</div>
+<div class="cell text_cell unselected rendered" tabindex="2">
+<div class="inner_cell">
+<div class="text_cell_render rendered_html" dir="ltr" tabindex="-1">
+<p>Matrix showing a similarity item by cosine similarity score with the item that has item rating on each user. the highest similarity scores are 1 when items A and B rating by the whole user .Otherwise similarity score has decreased by cosine distance .</p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/matrix finding similarity.png" /></div>
+</div>
+</div>
