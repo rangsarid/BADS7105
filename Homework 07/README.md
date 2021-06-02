@@ -1,4 +1,4 @@
-<p style="padding-left: 30px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Product Recommendation&nbsp;&nbsp;| Homework 7</strong></p>
+<p style="padding-left: 30px; text-align: center;"><strong>Product Recommendation&nbsp;&nbsp;| Homework 7</strong></p>
 <p><strong>Topic:&nbsp;</strong>Product Recommendation</p>
 <p><strong>Dataset:&nbsp;</strong>Customer Survey with study in class BADS CRM Analytics</p>
 <p><strong><span style="text-decoration: underline;">Sample Dataset</span></strong>&nbsp; : The dataset has missing values</p>
