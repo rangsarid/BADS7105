@@ -49,7 +49,7 @@
 <p>&nbsp;</p>
 <p style="padding-left: 270px;">&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Support_vs_lift.png" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><strong>3.Confident vs lift&nbsp;</strong></p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style="padding-left: 210px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/lift_VS_confident.png" /></p>
 <p>&nbsp;</p>
 <h2 id="Collaborative-Filtering---Item-Similarity">Collaborative Filtering - Item Similarity</h2>
