@@ -42,6 +42,7 @@
 <p><strong>Association Rules&nbsp;</strong></p>
 <p><strong>Find <strong>Association rule&nbsp;</strong>of items those are frequent&nbsp;<strong>items set at minimum support = 0.5&nbsp;and Lift &gt; 1.05&nbsp;</strong></strong></p>
 <p>&nbsp;Here is association rule with items A to item B (1➞1). Note that for 1-to-1-itemset, both directions of rules (A➞B, B➞A) have the same lift values</p>
+<p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/item_frequent_1_1.png" /></p>
 <p>&nbsp;</p>
 <p>Here is association rule with items set of (A,B) to item C (2➞1)&nbsp;</p>
 <p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/item_frequent_2_1.png" /></p>
