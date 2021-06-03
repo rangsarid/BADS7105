@@ -7,3 +7,4 @@
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2009/Slide4.PNG" /></p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2009/Slide5.PNG" /></p>
 <p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2009/Slide6.PNG" /></p>
+<p><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2009/Slide7.PNG" /></p>
