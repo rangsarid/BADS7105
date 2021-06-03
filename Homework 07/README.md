@@ -12,18 +12,27 @@
 <p>Encoding value&nbsp;</p>
 <p>'Yes' =&gt; 1&nbsp; , 'No' =&gt; 0&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/encode.png" /></p>
+<p><strong>Exploratory data analysis &nbsp;(EDA)</strong></p>
+<p>&nbsp;</p>
+<p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Distribution.png" /></p>
+<p style="padding-left: 270px;">&nbsp;</p>
+<ul>
+<li>Left hand side show distribution with&nbsp; histogram graph&nbsp; with&nbsp; frequency of use/purchase items</li>
+<li>Right hand side show top 10&nbsp;use/purchase items</li>
+</ul>
+<p>&nbsp;</p>
 <h2 id="Market-Basket-Analysis">Market Basket Analysis</h2>
 <h3 id="Association-rule-&amp;-Frequent-Items-set">Frequent Items set</h3>
 <p>Find frequency of Item A or the combination of frequency of items A and B together in the total number of transactions&nbsp;&nbsp;that measure by support score with minimum suport = 0.5 if support = 1 mean the item or those combination was ouccured frequency with all of transactions&nbsp;</p>
 <p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table.png" /></p>
 <h2 id="Show-top-10-frequent-items-set--2-items-by-support-score">Show top 10 frequent items set 2 items by support score</h2>
-<p>&nbsp; Here is show the top 10 frequent items set 2 item . Example&nbsp; (ครีมกันแดด, กระเป๋า) have support score =&nbsp; 1 that mean this item set&nbsp; occurred every transactions</p>
+<p>&nbsp; Here is show the top 10 frequent items set 2 items . Example&nbsp; <span style="color: #ff0000;">(ครีมกันแดด, กระเป๋า)</span> have support score =&nbsp; 1 that mean this item set&nbsp; occurred every transactions</p>
 <p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table_len_2.png" /></p>
 <p>&nbsp;</p>
 <p>Visualize with bar chart show top 10 with 2 items set &nbsp;</p>
 <p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_len2.png" /></p>
 <h2 id="Show-top-10-frequent-item-set--3-items-by-support-score">Show top 10 frequent items set 3 items by support score</h2>
-<p>&nbsp; &nbsp;Here is show the top 10 frequent items set 3 items. Example (ครีมกันแดด, โรตี, ชาบู) have support score =&nbsp;0.956522&nbsp;that means this item set occurred Almost all of transactions</p>
+<p>&nbsp; &nbsp;Here is show the top 10 frequent items set 3 items. Example <span style="color: #ff0000;">(ครีมกันแดด, โรตี, ชาบู)</span> have support score =&nbsp;0.956522&nbsp;that means this item set occurred Almost all of transactions</p>
 <p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table_len3.png" /></p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;Visualize with bar chart show top 10 with 3 items set &nbsp;</strong></p>
@@ -73,7 +82,7 @@
 <p>&nbsp; We could recommend items based on item similarity. Filtering the similarity using 0.75 threshold, and visualize them in graph. A node represents an item. Edge thickness and color represent cosine similarity between 2 items.</p>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/collaborative.png" /></div>
 <div class="text_cell_render rendered_html" dir="ltr" tabindex="-1"><strong>Conclusion :</strong></div>
-<div class="text_cell_render rendered_html" dir="ltr" tabindex="-1">&nbsp; &nbsp; Refer the above network graph use thickness of edge to determine the similarity of items score by user ratting . such as</div>
+<div class="text_cell_render rendered_html" dir="ltr" tabindex="-1">&nbsp; &nbsp; Refer the above network graph use thickness of edge to determine the similarity of items score by user rate . such as</div>
 <ul>
 <li class="text_cell_render rendered_html" dir="ltr" tabindex="-1">&nbsp;node <span style="color: #ff0000;">'ซาบู'</span> and node <span style="color: #ff0000;">'ครีมกันเเดด'</span> which have edge weight is 1.00 (similarity score =&nbsp; 1)&nbsp; . we would&nbsp; recommend 'ซาบู' voucher when customer bought <span style="color: #ff0000;">'ครีมกันแดด'&nbsp;</span></li>
 <li class="text_cell_render rendered_html" dir="ltr" tabindex="-1">&nbsp;node <span style="color: #ff0000;">'กระเป๋า'</span> and node<span style="color: #ff0000;"> 'ครีมกันเเดด'</span> which have edge weight is 1.00 (similarity score =&nbsp; 1) .&nbsp;we would&nbsp; recommend 'ครีมกันแดด' promotion discount when customer bought 'กระเป๋า'&nbsp; etc.&nbsp;</li>
