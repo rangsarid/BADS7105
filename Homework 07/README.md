@@ -9,6 +9,7 @@
 <ul>
 <li>Remove missing values</li>
 <li>Remove duplicated columns value&nbsp; (<span style="color: #ff0000;">'เครื่องย่อยกระดาษ'</span>)</li>
+<li>Impute null values by&nbsp; median</li>  
 </ul>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/duplicated_values.png" /></p>
 <p>Encoding value&nbsp;</p>
