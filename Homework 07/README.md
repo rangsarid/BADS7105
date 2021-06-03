@@ -1,6 +1,7 @@
 <p style="padding-left: 30px; text-align: center;"><strong>Product Recommendation&nbsp;&nbsp;| Homework 7</strong></p>
+<p><strong>Name:&nbsp;</strong>Rangsarid Pringwanid ID 62010422038</p>
+
 <p><strong>Topic:&nbsp;</strong>Product Recommendation</p>
-<p><strong>Topic:&nbsp;</strong>Rangsarid Pringwanid ID 62010422038</p>
 <p><strong>Dataset:&nbsp;</strong>Customer Survey with study in class BADS CRM Analytics</p>
 <p><strong><span style="text-decoration: underline;">Sample Dataset</span></strong>&nbsp; : The dataset has missing values</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/sample_data.png" /></p>
