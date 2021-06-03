@@ -49,7 +49,7 @@
 <p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_frequent_3.png" /></p>
 <p>&nbsp; &nbsp;Running a market basket analysis. Here is the visualization of 1-itemset association rules (filtered by Support &gt; 0.5 and Lift &gt; 1.05) Nodes represent items and directed edges represent rules (antecedents ➞ consequents). Edge labels annotate Lift values. Note that for 1-to-1-itemset, both directions of rules (A➞B, B➞A) have the same lift values, so in this case, we always have bi-directional edges (A⬌B).</p>
 <p>Hear is Graph visualize show the edge relationship between 1-to-1 itemset&nbsp;&nbsp;</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/graph_item_1_1.png" /></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/graph_item_1_1_2.png" /></p>
 <p><strong>Visual Result :&nbsp;</strong></p>
 <p><strong>1.Support vs Confident</strong></p>
 <p><br />&nbsp; &nbsp; &nbsp;</p>
