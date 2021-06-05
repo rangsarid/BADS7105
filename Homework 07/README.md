@@ -26,7 +26,7 @@
 <p>&nbsp;</p>
 <h2 id="Market-Basket-Analysis">Market Basket Analysis</h2>
 <h3 id="Association-rule-&amp;-Frequent-Items-set">Frequent Items set</h3>
-<p>Find frequency of Item A or the combination of frequency of items A and B together in the total number of transactions&nbsp;&nbsp;that measure by support score with minimum suport = 0.5 if support = 1 mean the item or those combination was ouccured frequency with all of transactions&nbsp;</p>
+<p>Find frequency of Item A or the combination of frequency of items A and B together in the total number of transactions&nbsp;&nbsp;that measure by support score with minimum support = 0.5 if support = 1 mean the item or those combination was ouccured frequency with all of transactions&nbsp;</p>
 <p style="padding-left: 270px;"><img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Top10_support_table.png" /></p>
 <h2 id="Show-top-10-frequent-items-set--2-items-by-support-score">Show top 10 frequent items set 2 items by support score</h2>
 <p>&nbsp; Here is show the top 10 frequent items set 2 items . Example&nbsp; <span style="color: #ff0000;">(ครีมกันแดด, กระเป๋า)</span> have support score =&nbsp; 1 that mean this item set&nbsp; occurred every transactions</p>
