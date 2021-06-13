@@ -32,4 +32,16 @@ show correlation plot of consumption by Male
 show correlation plot of interests by Female  
 ![Screenshot](Hw1/corr_consumption_female.png)
 
-###
+
+## Free Text Comment analysis 
+##### Refer Freetext comments from customer survey. I use nlp processing to clean up and classifies the free texts by customer's fovor activity type and show the top 10 frequency as below graph
+
+![Screenshot](Hw1/free_word.png)
+
+## User similarity 
+##### use cosine similarity finding the similar user . And also indentify user by Gender_Month-of-Birth_Age  examplt ('ชาย_9_33')  
+ 
+ Show similarity score by heatmap graph as below
+![Screenshot](Hw1/similarity.png)
+
+
