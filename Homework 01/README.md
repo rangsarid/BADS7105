@@ -13,4 +13,23 @@ Objective on Hw1 :
 Show age distributed
 ![Screenshot](Hw1/age_distributed.png)
 
+Show age distributed by gender
 ![Screenshot](Hw1/age_distributed_sex.png)
+
+#### Correlation plot of Interested by Gender
+
+show correlation plot of interests by Male  
+
+![Screenshot](Hw1/Corr_Interest_male.png)
+
+show correlation plot of interests by Female  
+![Screenshot](Hw1/Corr_interest_female.png)
+
+
+#### Correlation plot of comsumption by Gender
+show correlation plot of consumption by Male
+![Screenshot](Hw1/corr_consumption_male.png)
+show correlation plot of interests by Female  
+![Screenshot](Hw1/corr_consumption_female.png)
+
+###
