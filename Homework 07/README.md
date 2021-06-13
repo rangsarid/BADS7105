@@ -3,8 +3,8 @@
 
 <p><strong>Topic:&nbsp;</strong>Product Recommendation</p>
 <p><strong>Dataset:&nbsp;</strong>Customer Survey with study in class BADS CRM Analytics</p>
-<strong>Notebook:     </strong><a href="https://github.com/rangsarid/BADS7105/blob/main/Homework%2010/Customer_movement_query.sql">SQL-Query</a></br>
-<strong>Googlecolab Notebook:     </strong><a href="https://github.com/rangsarid/BADS7105/blob/main/Homework%2010/Customer_movement_query.sql">SQL-Query</a>
+<strong>Notebook:     </strong><a href="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Week7_Product_Recommendation.ipynb">Product_Recommendation</a></br>
+<strong>Googlecolab Notebook:     </strong><a href="https://colab.research.google.com/drive/1O8r0P2BhA9JDC05VjcntxfKZiTIRKZsZ#scrollTo=mj037kynQXIM">Product_Recommendation colab</a>
 <p><strong><span style="text-decoration: underline;">Sample Dataset</span></strong>&nbsp; : The dataset has missing values</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/sample_data.png" /></p>
 <p>Missing and Duplicated Handling :</p>
