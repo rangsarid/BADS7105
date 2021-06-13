@@ -1,7 +1,7 @@
 
-#   HomeWork 1 Customer Survey 
+#   Homework 1 Customer Survey 
 #### Dataset : Customer questionare survey with  students on CRM Class
-Name : Rangsarid Pringwanid Id 62010422038
+##### Name : Rangsarid Pringwanid Id 62010422038
 
 Objective on Hw1 :   
     conduct customer servey on relationships of customer interested and customer consumption and free text comment filled 
