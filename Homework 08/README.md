@@ -63,7 +63,7 @@
 | XG-Boost	| smote-tomek link	 |      0.90	   | 	  0.89    |	  0.90    |    0.89  |	  0.87 |   0.91  |
   
 ## Conclusion 
-  Base on  above accuracy result at XG-Boost model and Re-sampling by SMOTE provide the best perfromance of model  at accuracy 0.88-0.90 
+  Base on  above accuracy result table at XG-Boost model and Re-sampling by SMOTE provide the best perfromance of model  at accuracy 0.88-0.90 
 and cross vadiation approach can be increased the model performance and model accuracy.  
 
     
