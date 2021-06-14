@@ -8,7 +8,7 @@
 
 ### Data Exploratory 
 **Show distirbuted total amount by  frequency transaction** </br>
-![Screenshot](Hw8_img/distributed.png) 
+![Screenshot](Hw8_img/distributed1.png) 
 
 **Show series total amount and total customer by  datetime** </br>
 ![Screenshot](Hw8_img/date_amount.png) 
