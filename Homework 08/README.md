@@ -44,11 +44,8 @@
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |   
-
-## Result    
-- Logistic Regression  </br>
 |  model  |	resampler   |	train-mean |	train-min |	train-max | test-mean |	test-min |	test-max |
-| ------- |  ---------  | ---------- | ---------- | ---------- | -------- | -------- | ------ | 
+| ---- | --- | --- | ---------- | ---------- | -------- | -------- | ------ | 
 | logistic | undersampler |	 0.62    | 0.60       |  0.63      |  0.61    |	 0.58    |   0.65    |
 | logistic	| oversampler	|      0 	   | 	    0      |    0      |     0    |	  0      |    0     |
 | logistic	| smote	      |      0.62  | 	 0.60    |    0.63   |   0.61    |		  0.59      |     0.65    |
@@ -57,5 +54,7 @@
   
   
 
+## Result    
+- Logistic Regression  </br>
 
 
