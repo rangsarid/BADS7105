@@ -49,7 +49,7 @@
 |  model  |	resampler   |	train-mean |	train-min |	train-max | test-mean |	test-min |	test-max |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | logistic | undersampler |	 0.62    | 0.60       |  0.63      |  0.61    |	 0.58    |   0.65    |
-| logistic	| oversampler	|      0 	   | 	    0      |    0      |     0    |	  0      |    0     |
+| logistic	| oversampler	|      0.62	   | 	    0.61      |    0.63      |     0.62    |	  0.59      |    0.65     |
 | logistic	| smote	      |      0.62  | 	 0.60    |    0.63   |   0.61    |		  0.59      |     0.65    |
 | logistic	| smote-tomek	 |      0.62 	   | 	  0.61    |	  0.63    |    0.62  |	  0.59 |   0.64  |
   
@@ -58,7 +58,7 @@
 |  model  |	resampler   |	train-mean |	train-min |	train-max | test-mean |	test-min |	test-max |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | XG-Boost | undersampler |	 0.62    | 0.60       |  0.65      |  0.60    |	 0.56   |   0.64    |
-| XG-Boost	| oversampler	|      0 	   | 	    0      |    0      |     0    |	  0      |    0     |
+| XG-Boost	| oversampler	|      0.67 	   | 	    0.65      |    0.69      |     0.64    |	  0.61      |    0.68     |
 | XG-Boost	| smote	      |      0.90  | 	 0.89    |    0.90   |   0.89    |		  0.88      |     0.90    |
 | XG-Boost	| smote-tomek	 |      0.90	   | 	  0.89    |	  0.90    |    0.89  |	  0.87 |   0.91  |
   
