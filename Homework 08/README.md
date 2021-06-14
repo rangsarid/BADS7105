@@ -60,11 +60,12 @@
 | XG-Boost | undersampler |	 0.62    | 0.60       |  0.65      |  0.60    |	 0.56   |   0.64    |
 | XG-Boost	| oversampler	|      0.67 	   | 	    0.65      |    0.69      |     0.64    |	  0.61      |    0.68     |
 | XG-Boost	| smote	      |      0.90  | 	 0.89    |    0.90   |   0.89    |		  0.88      |     0.90    |
-| XG-Boost	| smote-tomek	 |      0.90	   | 	  0.89    |	  0.90    |    0.89  |	  0.87 |   0.91  |
+| XG-Boost	| smote-tomek link	 |      0.90	   | 	  0.89    |	  0.90    |    0.89  |	  0.87 |   0.91  |
   
-## Result With ROC Curve 
-ROC Curve with XG_boost by SMOTE
-![Screenshot](Hw8_img/SMOTE_1.png) 
+## Conclusion 
+  Base on  above accuracy result at XG-Boost model and Re-sampling by SMOTE provide the best perfromance of model  at accuracy 0.88-0.90 
+and cross vadiation approach can be increased the model performance and model accuracy.  
+
     
 
 
