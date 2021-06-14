@@ -40,10 +40,6 @@
 ## Model Tuning 
    Cross validation with StratifiedKFold 10 Folds
    
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |   
 
 ## Result    
 - Logistic Regression  </br>
