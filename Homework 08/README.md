@@ -4,7 +4,7 @@
 **ID :** 62010422038 </br>
 **Dataset :**  Campaign Response.csv and Transaction.csv file </br> 
 **Colab notebook :**   [Campaign Response](https://colab.research.google.com/drive/1Or1rr0r46I23JxAWh4N1eBPQoYzkoyLJ#scrollTo=PmAzfXwhHTgo). </br>
-**note_book :** </br>
+**Notebook :** [Campaign Response notebook](week8_Campaign_response1.ipynb). </br>
 
 ### Data Exploratory 
 **Show distirbuted total amount by  frequency transaction** </br>
