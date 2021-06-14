@@ -2,7 +2,9 @@
 **Objective :** Improvement Model accuracy rate and baseline model performance by machine learning techniques </br>
 **Name :** Rangsarid Pringwanid  </br>
 **ID :** 62010422038 </br>
-**Dataset :**  Campaign Response.csv and Transaction.csv file 
+**Dataset :**  Campaign Response.csv and Transaction.csv file </br> 
+**Colab notebook :**   [Campaign Response](https://colab.research.google.com/drive/1Or1rr0r46I23JxAWh4N1eBPQoYzkoyLJ#scrollTo=PmAzfXwhHTgo). </br>
+**note_book :** </br>
 
 ### Data Exploratory 
 **Show distirbuted total amount by  frequency transaction** </br>
@@ -60,6 +62,9 @@
 | XG-Boost	| smote	      |      0.90  | 	 0.89    |    0.90   |   0.89    |		  0.88      |     0.90    |
 | XG-Boost	| smote-tomek	 |      0.90	   | 	  0.89    |	  0.90    |    0.89  |	  0.87 |   0.91  |
   
-
+## Result With ROC Curve 
+ROC Curve with XG_boost by SMOTE
+![Screenshot](Hw8_img/SMOTE_1.png) 
+    
 
 
