@@ -34,8 +34,8 @@ show heatmap graph that the number of customer's reviews have been assigned on e
  ![snapshoot](Hw11/heatmap_final.png)
 
 ### Conclusion 
-Voice customer review help to understood more customer needed , customer impression , what the customer's mentions with our brand so we use topic modeling make analysis to classify review of customer into the each topic .Additional we can user this information make customer Engagement 
-to make more customer's impression too.
+Voice customer review help to understood more customer needed , customer satisfaction , what the customer's mentions with our brand so we use topic modeling make analysis to classify review of customer into the each topic .Additional we can user this information make customer Engagement 
+to make more customer's satisfaction or convince to buy our product too.
 
 
 
