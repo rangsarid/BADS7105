@@ -17,9 +17,14 @@
  ![snapshoot](Hw11/word_tk_fre.png)
 
  ## Topic Modeling by LDA
-    defined number of topics with 3 topic, visualization by LDA whether the distance between  
-inter-topic on a topic cluster 
+defined number of topics with 3 topic, visualization by LDA whether the distance between inter-topic on a topic cluster </br>
 **Display by HTML page :** [LDA Visualization](Hw11/lda.html)  
+
+
+
+## Result 
+show heatmap graph that the customer's reviews have been assign on each topic 
+ ![snapshoot](Hw11/heatmap_final.png)
 
 
 
