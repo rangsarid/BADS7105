@@ -18,8 +18,8 @@
 
  ## Topic Modeling by LDA
 Defined number of topics with 3 topic, visualization by LDA whether the distance between inter-topic on a topic cluster </br>
-**LDA 3 Topics visualization** </br>
- ![snapshoot](Hw11/LDA2.png)
+**LDA 3 Topics visualization**</br>
+![snapshoot](Hw11/LDA2.png)
 
 **Display by HTML page :** [LDA Visualization](Hw11/lda.html)  
 
