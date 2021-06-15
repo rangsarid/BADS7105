@@ -15,7 +15,7 @@ Howwork check list :
 - [x] [Homework 08 - Campaign Response Model](Homework%2008)
 - [x] [Homework 09 - A/B Testing](Homework%2009)
 - [x] [Homework 10 - Customer Movement Analysis](Homework%2010)
-- [ ] [Homework 11 - Voice of Customers](Homework%2011)
+- [x] [Homework 11 - Voice of Customers](Homework%2011)
 - [ ] [Homework 12 - Design Thinking](Homework%2012)
 
 
