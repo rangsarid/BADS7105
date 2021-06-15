@@ -17,7 +17,10 @@
  ![snapshoot](Hw11/word_tk_fre.png)
 
  ## Topic Modeling by LDA
-defined number of topics with 3 topic, visualization by LDA whether the distance between inter-topic on a topic cluster </br>
+Defined number of topics with 3 topic, visualization by LDA whether the distance between inter-topic on a topic cluster </br>
+**LDA 3 Topics visualization** </br>
+ ![snapshoot](Hw11/LDA2.png)
+
 **Display by HTML page :** [LDA Visualization](Hw11/lda.html)  
 
 
