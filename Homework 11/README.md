@@ -4,7 +4,7 @@
 ##### Name : Rangsarid Pringwanid ID :  6210422038
 **Dataset:** Collect csv file from wongnai comment with Sabu resturant at the mall bangkapi </br>
 **Colab_Notebook :** [voice_customer](https://colab.research.google.com/drive/11io0nwDOKAC0pCZlzovQwYvG83_2pH6A#scrollTo=h7l0BcISJnvz). </br>
-**Jupyter Notebook :** [voice of customer notebook]().
+**Jupyter Notebook :** [voice of customer notebook](Week11_Voice_Customer.ipynb).
 
 ### Data Exploratory 
 **Show distribution Sentense word length** </br>
