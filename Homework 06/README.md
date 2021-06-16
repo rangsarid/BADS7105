@@ -3,7 +3,7 @@
 ### Objective : Purpose to segment and cluster customers to the group identifies characteristics of customer . Created future engagment
 #### Name : Rangsarid Pringwanid ID: 6210422038
 #### Dataset : Public retail  supper markey dataset csv file
-
+Colab Python : [colab notebook](https://colab.research.google.com/drive/1kT4Y1SaE7Yj8HxVLnbT4_wsyoMOLFibC#scrollTo=ju4yfNLkxR51).  </br>
 ### Methodogy
 1. Created and prepair data on google Bigquery
 2. Aggregated data and created  data feature  (Data prepairing process) to crated K-mean clustering model with  python codding  via google colab
