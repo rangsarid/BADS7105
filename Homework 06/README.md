@@ -44,6 +44,21 @@ found the feature  "Total_spend" , "STD_SPEND" and "TICKET_SIZE" are the top3 im
 
 ### Interpretation Result
 
+Cluster 0 : Active/norm customer
+- Busket size small to meduim. 
+- Spending ever 3 months.
+- Have long been a customer more than one year since first times shop.
+Cluster 1 : Churn/One Time Purchase
+- less spending power. 
+- Spend only one time. 
+- Not active for over 1 year.
+Cluster 2 : Premuim Customer (VIP) 
+- spend every week.     
+- Ticket Size bigger than other.
+- Busket size Meduim to large (M-L)      
+- Have long been a customer more than one year (Need to more Engagement)   
+
+
 
 
 
