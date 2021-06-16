@@ -48,10 +48,12 @@ Cluster 0 : Active/norm customer
 - Busket size small to meduim. 
 - Spending ever 3 months.
 - Have long been a customer more than one year since first times shop.</br>
+
 Cluster 1 : Churn/One Time Purchase
 - less spending power. 
 - Spend only one time. 
 - Not active for over 1 year.</br>
+
 Cluster 2 : Premuim Customer (VIP) 
 - spend every week.     
 - Ticket Size bigger than other.
