@@ -27,20 +27,20 @@
 To selected K is number of clustering , would like to get the best K pactics  by applies Elbow method and Silhouette . Here below are  Elbow method and Silhouette graph 
 #### Elbow method graph 
 
-![snapshot](hw6/elbow.png).
-![snapshot](hw6/sil.png).
+![snapshot](Hw6/elbow.png).
+![snapshot](Hw6/sil.png).
 
  At K = 3 is strongly decreasing loss value at elbow graph and highly score at Silhouette graph 
 
  ### Clustering Analysis 
-    This step do analysis which features have more importance with clsuter and how performed clsuter. 
+This step do analysis which features have more importance with clsuter and how performed clsuter. 
  as below are feature importance graph .   
-![snapshot](hw6/feature.png).
+![snapshot](Hw6/feature.png).
 
-    found the feature  "Total_spend" , "STD_SPEND" and "TICKET_SIZE" are the top3 importance feature scores more than others 
+found the feature  "Total_spend" , "STD_SPEND" and "TICKET_SIZE" are the top3 importance feature scores more than others 
 
 ### Final Model Result
-    ![snapshot](hw6/table_clust.png).
+![snapshot](Hw6/table_clust.png).
 
 ### Interpretation Result
 
