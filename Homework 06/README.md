@@ -9,7 +9,7 @@ Colab Python : [colab notebook](https://colab.research.google.com/drive/1kT4Y1Sa
 2. Aggregated data and created  data feature  (Data prepairing process) to crated K-mean clustering model with  python codding  via google colab
 3. Analysis with model result , feature improtance  
 ### Feature Engineering
-    Created features  as below :
+Created features  as below :
 1. TOTAL_VISIT => Total visit of each customer 
 2. TOTAL_SPEND => Total spend of each customer
 3. TICKET_SIZE => Average Spend of each customer
@@ -28,7 +28,7 @@ To selected K is number of clustering , would like to get the best K pactics  by
 #### Elbow method graph 
 
 ![snapshot](Hw6/elbow.png).
-![snapshot](Hw6/sil.png).
+![snapshot](Hw6/sis.png).
 
  At K = 3 is strongly decreasing loss value at elbow graph and highly score at Silhouette graph 
 
@@ -37,7 +37,7 @@ This step do analysis which features have more importance with clsuter and how p
  as below are feature importance graph .   
 ![snapshot](Hw6/feature.png).
 
-found the feature  "Total_spend" , "STD_SPEND" and "TICKET_SIZE" are the top3 importance feature scores more than others 
+found the feature  "LENGTH_STAY" , "AVG_TIME_TO_EVENT" and "TOTAL_SPEND" are the top3 importance feature scores more than others 
 
 ### Final Model Result
 ![snapshot](Hw6/table_clust.png).
@@ -58,7 +58,11 @@ Cluster 2 : Premuim Customer (VIP)
 - spend every week.     
 - Ticket Size bigger than other.
 - Busket size Meduim to large (M-L)      
-- Have long been a customer more than one year (Need to more Engagement)   
+- Have long been a customer more than one year (Need to more Engagement)   </br>
+**Example** Satter plot bewteen LENGTH_STAY vs TOTAL_SPEND
+![snapshot](Hw6/cluster.png).
+
+
 
 
 
