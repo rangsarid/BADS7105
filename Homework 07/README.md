@@ -2,7 +2,7 @@
 <p><strong>Name:&nbsp;</strong>Rangsarid Pringwanid ID 62010422038</p>
 
 <p><strong>Topic:&nbsp;</strong>Product Recommendation</p>
-<strong>Dataset:&nbsp;</strong>Customer Survey with study in class BADS CRM Analytics
+<strong>Dataset:&nbsp;</strong>Customer Survey with study in class BADS CRM Analytics </br>
 <strong>Notebook:     </strong><a href="https://github.com/rangsarid/BADS7105/blob/main/Homework%2007/Week7_Product_Recommendation.ipynb">Product_Recommendation</a></br>
 <strong>Googlecolab Notebook:     </strong><a href="https://colab.research.google.com/drive/1O8r0P2BhA9JDC05VjcntxfKZiTIRKZsZ#scrollTo=mj037kynQXIM">Product_Recommendation colab</a></br>
 <strong><span style="text-decoration: underline;">Sample Dataset</span></strong>&nbsp; : The dataset has missing values
